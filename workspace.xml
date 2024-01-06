@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87d1cb67-d8ee-4be4-9fc3-abf40e33f3ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Day4/[ 24.0008 ] D4 Coin Flip - Copy/.idea/[ 24.0008 ] D4 Coin Flip.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Day5/[ 24.0009 ] D5 Average Student Height Challenge-without using len or sum functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0007 ] D3 Love Calculator/[ 24.0007 ] D3 Love Calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0007 ] D3 Pizza Ordering Pricing Menu/[ 24.0007 ] D3 Pizza Ordering Pricing Menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0007 ] D3 Rollercoaster Ride Ticket Prices/.idea/[ 24.0007 ] D3 Rollercoaster Ride Ticket Prices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0008 ] D4 Coin Flip/[ 24.0008 ] D4 Coin Flip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0008 ] D4 More Advanced Treasure Map/[ 24.0008 ] D4 Treasure Map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 FizzBuzz Interview Question/.idea/[ 24.0009 ] D5 FizzBuzz Interview Question.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 FizzBuzz Interview Question/[ 24.0009 ] D5 FizzBuzz Challenge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Highest Score from a List of different numbers/.idea/[ 24.0009 ] D5 Highest Score from a List of different numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Highest Score from a List of different numbers/[ 24.0009 ] D5 Highest Score from a List of different numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Easy mode/.idea/[ 24.0009 ] D5 Password-Generator-Easy mode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Easy mode/[ 24.0009 ] D5 Password-Generator-Easy mode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Hard-mode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Hard-mode/.idea/[ 24.0009 ] D5 Password-Generator-Hard-mode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Hard-mode/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Hard-mode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Hard-mode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Hard-mode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0009 ] D5 Password-Generator-Hard-mode/[ 24.0009 ] D5 Password-Generator-Hard-mode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot-Play Again Loop-Reeborg movement 1-4 and Maze/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/.idea/[ 24.0010 ] D6 Reeborg the Robot-Play Again Loop-Reeborg movement 1-4 and Maze.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.01 Reeborg the Robot turn right.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.02 Reeborg While Loop Play Again Option.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.03 Reeborg Movements1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.04 Reeborg Movements2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.05 Reeborg Movements3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.06 Reeborg Movements4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.07 Reeborg Movements5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.08 Reeborg Movements6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.09 Reeborg Movements7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.10 Reeborgs Maze1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.11 Reeborgs Maze2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/[ 24.0010 ] D6.12 Reeborgs Maze3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/.idea/[ 24.0010 ] D6 Reeborg the Robot-Play Again Loop-Reeborg movement 1-4 and Maze.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.01 Reeborg the Robot turn right.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.02 Reeborg While Loop Play Again Option.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.03 Reeborg Movements1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.04 Reeborg Movements2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.05 Reeborg Movements3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.06 Reeborg Movements4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.07 Reeborg Movements5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.08 Reeborg Movements6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.09 Reeborg Movements7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.10 Reeborgs Maze1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.11 Reeborgs Maze2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../[ 24.0010 ] D6 Reeborg the Robot/older files/[ 24.0010 ] D6.12 Reeborgs Maze3.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2aYd3L4kyPrIyKA3hEQfQUvjvob" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\D-H4wk Coding Files\Codex backups and testing\GitHub-Python-Files\_24_0015__Day11_Blackjack_Capstone_Project__231004\D11__Project_1_BlackJack_Game\Active_Project_To_Submit_Still_Project1\Previous_versions_nonactive_arChives_Project1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python._24_0015__D11_v20_f17_Blackjack_Main_W">
+    <configuration name="_24_0015__D11_v20_f15_Blackjack_NoNotes_HorSNWY_ovW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\guber\PycharmProjects\main\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_24_0015__D11_v20_f15_Blackjack_NoNotes_HorSNWY_ovW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_24_0015__D11_v20_f17_Blackjack_Main_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\guber\PycharmProjects\main\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_24_0015__D11_v20_f17_Blackjack_Main_W.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._24_0015__D11_v20_f17_Blackjack_Main_W" />
+        <item itemvalue="Python._24_0015__D11_v20_f15_Blackjack_NoNotes_HorSNWY_ovW" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87d1cb67-d8ee-4be4-9fc3-abf40e33f3ef" name="Changes" comment="" />
+      <created>1704499249777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704499249777</updated>
+    </task>
+    <servers />
+  </component>
+</project>
